@@ -8,3 +8,6 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+title: Mattias Lindberg
+description: This is a site using Markdown files.
+theme: minima  # Optional: use a Jekyll theme

@@ -10,4 +10,4 @@ kramdown:
   syntax_highlighter: rouge
 title: /MattiasLindberg
 description: This is a site using Markdown files.
-theme: simplex  # Optional: use a Jekyll theme
+remote_theme: sighingnow/jekyll-gitbook
